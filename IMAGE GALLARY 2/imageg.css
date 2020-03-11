@@ -1,0 +1,19 @@
+h1{text-align: center;
+color:white;
+border:2px solid grey;
+background-color:black;
+border:300px;
+margin-left: 400px;
+margin-right:300px;}
+h2{text-align:center;
+color:yellow;
+border:2px solid grey;
+background-color:purple;
+margin-left:400px;
+margin-right: 300px;}
+img{border:2px solid grey;
+margin:10px;}
+img:hover{border:3px;
+    padding:2px;
+    opacity:0.9;
+}
